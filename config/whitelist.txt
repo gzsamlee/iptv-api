@@ -2,3 +2,6 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f8f1a10514fbee8e712cd0bb335d10e1&txTime=18e91ea7f78
+广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
+cnn,https://stream1.freetv.fun/8f00cf1e1b9e5033eb0981c4133b321c3812c3bb977c3f497eb2762ca045a075.m3u8
